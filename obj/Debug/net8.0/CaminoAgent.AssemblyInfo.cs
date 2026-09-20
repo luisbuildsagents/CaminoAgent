@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CaminoAgent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ca79e40ab7c8ae148048bfc79e151685435b755")]
 [assembly: System.Reflection.AssemblyProductAttribute("CaminoAgent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CaminoAgent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
