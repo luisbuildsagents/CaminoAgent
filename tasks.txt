@@ -1,0 +1,12 @@
+Day 1: Setup done - you ran Camino!
+Day 2: Edit Program.cs and change myGoal
+Day 3: Upgrade to v0.2 and add your own task
+Day 4: Build a no-code prompt agent and use it on iPhone
+Day 5: Save code to GitHub
+Day 6: Create Telegram bot token with BotFather
+Day 7: Ship Week 1 post
+1
+Create Instagram account for my build
+vPost Day 1 video from Terminal
+Create Instagram account for my build
+Post Dat 1 video from Terminal

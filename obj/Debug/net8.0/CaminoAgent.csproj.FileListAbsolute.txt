@@ -1,0 +1,14 @@
+/Users/luisdgarcia/VSCode/CaminoAgent/bin/Debug/net8.0/CaminoAgent
+/Users/luisdgarcia/VSCode/CaminoAgent/bin/Debug/net8.0/CaminoAgent.deps.json
+/Users/luisdgarcia/VSCode/CaminoAgent/bin/Debug/net8.0/CaminoAgent.runtimeconfig.json
+/Users/luisdgarcia/VSCode/CaminoAgent/bin/Debug/net8.0/CaminoAgent.dll
+/Users/luisdgarcia/VSCode/CaminoAgent/bin/Debug/net8.0/CaminoAgent.pdb
+/Users/luisdgarcia/VSCode/CaminoAgent/obj/Debug/net8.0/CaminoAgent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisdgarcia/VSCode/CaminoAgent/obj/Debug/net8.0/CaminoAgent.AssemblyInfoInputs.cache
+/Users/luisdgarcia/VSCode/CaminoAgent/obj/Debug/net8.0/CaminoAgent.AssemblyInfo.cs
+/Users/luisdgarcia/VSCode/CaminoAgent/obj/Debug/net8.0/CaminoAgent.csproj.CoreCompileInputs.cache
+/Users/luisdgarcia/VSCode/CaminoAgent/obj/Debug/net8.0/CaminoAgent.dll
+/Users/luisdgarcia/VSCode/CaminoAgent/obj/Debug/net8.0/refint/CaminoAgent.dll
+/Users/luisdgarcia/VSCode/CaminoAgent/obj/Debug/net8.0/CaminoAgent.pdb
+/Users/luisdgarcia/VSCode/CaminoAgent/obj/Debug/net8.0/CaminoAgent.genruntimeconfig.cache
+/Users/luisdgarcia/VSCode/CaminoAgent/obj/Debug/net8.0/ref/CaminoAgent.dll
